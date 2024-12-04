@@ -35,6 +35,8 @@ $object->speed(200)->passengers([
 ]);
 ```
 
+![MyObject](https://github.com/user-attachments/assets/bc6a57e2-ae2d-4353-ab7c-322bcc28f810)
+
 ## Changelog
 
 Please see [Releases](../../releases) for more information on what has changed recently.
